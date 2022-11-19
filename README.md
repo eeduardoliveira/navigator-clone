@@ -1,6 +1,6 @@
-# Chrome Clone
+# Navigator
 
-A Google Chrome mobile app clone.
+A Navigator mobile app clone.
 
 ## Tools used
 
@@ -12,13 +12,6 @@ A Google Chrome mobile app clone.
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Screenshots
-
-<center>
-<span>
-<img src="assets/home.jpeg" width="250">
-<img src="assets/page.jpeg" width="250">
-</span>
-</center>
 
 ## How to use
 
